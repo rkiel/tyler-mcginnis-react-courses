@@ -19,7 +19,7 @@ Start the webpack server
     npm start
 
 View in the browser
-    
+
     http://192.168.33.60:8080/
 
 Here's how it was built
@@ -27,6 +27,7 @@ Here's how it was built
     npm init -f
     npm install --save react react-dom
     npm install --save-dev html-webpack-plugin webpack webpack-dev-server babel-core babel-loader babel-preset-react
+    npm install --save react-router
     touch webpack.config.js
     touch .babelrc
     echo dist >> .gitignore
