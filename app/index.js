@@ -1,12 +1,8 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
+var routes = require('./config/routes.jsx');
+var sentry = require('./config/sentry');
 
-var Hello = React.createClass({
-  render: function () {
-    return (
-      <div>Hello ReactJS Program!</div>
-    )
-  }
-});
+sentry.install();
 
-ReactDOM.render(<Hello />, document.getElementById('app'));
+ReactDOM.render(routes, document.getElementById('app'));
