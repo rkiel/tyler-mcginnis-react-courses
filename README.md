@@ -42,3 +42,6 @@ Here's how to update
     npm outdated
     npm prune
  
+ Tyler McGinnis' React Fundamentals
+ 
+* [Video 2 Code](https://github.com/ReactjsProgram/React-Fundamentals/tree/video2)
