@@ -45,3 +45,4 @@ Here's how to update
  Tyler McGinnis' React Fundamentals
  
 * [Video 2 Code](https://github.com/ReactjsProgram/React-Fundamentals/tree/video2)
+* [Video 3 Code](https://github.com/ReactjsProgram/React-Fundamentals/tree/video3)
