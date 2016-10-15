@@ -34,3 +34,11 @@ Here's how it was built
     mkdir app && cd app
     touch index.html
     touch index.js
+
+Here's how to update
+
+    npm outdated
+    npm update --save
+    npm outdated
+    npm prune
+ 
