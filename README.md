@@ -44,6 +44,6 @@ Here's how to update
  
  [Tyler McGinnis' React.js Fundamentals](http://www.reactjsprogram.com/)
  
-* [Video 2 - Babel, Webpack, and React](https://github.com/ReactjsProgram/React-Fundamentals/tree/video2)
-* [Video 3 - Pure Functions, Props, and Nesting](https://github.com/ReactjsProgram/React-Fundamentals/tree/video3)
-* [Video 4 - Children and React Router](https://github.com/ReactjsProgram/React-Fundamentals/tree/video4)
+* [Code for Video 2 - Babel, Webpack, and React](https://github.com/ReactjsProgram/React-Fundamentals/tree/video2)
+* [Code for Video 3 - Pure Functions, Props, and Nesting](https://github.com/ReactjsProgram/React-Fundamentals/tree/video3)
+* [Code for Video 4 - Children and React Router](https://github.com/ReactjsProgram/React-Fundamentals/tree/video4)
