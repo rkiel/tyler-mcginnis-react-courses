@@ -25,9 +25,8 @@ View in the browser
 Here's how it was built
 
     npm init -f
-    npm install --save react react-dom
+    npm install --save react react-dom react-router axios
     npm install --save-dev html-webpack-plugin webpack webpack-dev-server babel-core babel-loader babel-preset-react
-    npm install --save react-router
     touch webpack.config.js
     touch .babelrc
     echo dist >> .gitignore
