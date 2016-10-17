@@ -63,5 +63,4 @@ Here's how to update (Vagrant box)
 
 
 [Sentry](https://sentry.io/)
-
-[Sentry for React](https://docs.sentry.io/clients/javascript/integrations/react/)
+* [Sentry for React](https://docs.sentry.io/clients/javascript/integrations/react/)
