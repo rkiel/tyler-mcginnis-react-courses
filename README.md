@@ -1,6 +1,6 @@
 #### React Starter
 
-Clone the repository and make it your own
+Clone the repository and make it your own (OS X box)
 
     mkdir ~/GitHub/rkiel && cd ~/GitHub/rkiel
     git clone git@github.com:rkiel/react-starter.git
@@ -10,19 +10,28 @@ Clone the repository and make it your own
     git add .
     git commit -m "Initial commit"
 
-Install the node modules
+Start up Vagrant (OS X box)
+
+    vagrant up
+    vagrant ssh node
+    
+Go to the dual-world project directory (Vagrant box)
+
+    cd /vagrant
+    
+Install the node modules (Vagrant box)
 
     npm install
 
-Start the webpack server
+Start the webpack server (Vagrant box)
 
     npm start
 
-View in the browser
+View in the browser (Chrome or Safari)
 
     http://192.168.33.60:8080/
 
-Here's how it was built
+Here's how it was built (Vagrant box)
 
     npm init -f
     npm install --save react react-dom react-router axios
@@ -35,12 +44,14 @@ Here's how it was built
     touch index.html
     touch index.js
 
-Here's how to update
+Here's how to update (Vagrant box)
 
     npm outdated
     npm update --save
     npm outdated
     npm prune
+ 
+ Resources
  
  [Tyler McGinnis' React.js Fundamentals](http://www.reactjsprogram.com/)
  
@@ -50,7 +61,7 @@ Here's how to update
 * [Code for Video 5 - Container vs. Presentational Components](https://github.com/ReactjsProgram/React-Fundamentals/tree/video5)
 * [Code for Video 6 - Lifecycle Events](https://github.com/ReactjsProgram/React-Fundamentals/tree/video6)
 
-Other Tools
 
-* [Sentry](https://sentry.io/)
-* [Sentry for React](https://docs.sentry.io/clients/javascript/integrations/react/)
+[Sentry](https://sentry.io/)
+
+[Sentry for React](https://docs.sentry.io/clients/javascript/integrations/react/)
