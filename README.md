@@ -47,6 +47,8 @@ Here's how to update
 * [Code for Video 2 - Babel, Webpack, and React](https://github.com/ReactjsProgram/React-Fundamentals/tree/video2)
 * [Code for Video 3 - Pure Functions, Props, and Nesting](https://github.com/ReactjsProgram/React-Fundamentals/tree/video3)
 * [Code for Video 4 - Children, React Router, Sentry](https://github.com/ReactjsProgram/React-Fundamentals/tree/video4)
+* [Code for Video 5 - Container vs. Presentational Components](https://github.com/ReactjsProgram/React-Fundamentals/tree/video50
+* [Code for Video 6 - Lifecycle Events](https://github.com/ReactjsProgram/React-Fundamentals/tree/video6)
 
 Other Tools
 
