@@ -61,6 +61,7 @@ Here's how to update (Vagrant box)
 * [Code for Video 5 - Container vs. Presentational Components](https://github.com/ReactjsProgram/React-Fundamentals/tree/video5)
 * [Code for Video 6 - Lifecycle Events](https://github.com/ReactjsProgram/React-Fundamentals/tree/video6)
 * [Code for Video 7 - Axios, Promises, and the Github API](https://github.com/ReactjsProgram/React-Fundamentals/tree/video7)
+* [Code for Video 8 - Rendering UI in React](https://github.com/ReactjsProgram/React-Fundamentals/tree/video8)
 
 
 [Sentry](https://sentry.io/)
