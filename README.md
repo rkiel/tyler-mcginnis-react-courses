@@ -64,6 +64,7 @@ Here's how to update (Vagrant box)
 * [Code for Video 8 - Rendering UI in React](https://github.com/ReactjsProgram/React-Fundamentals/tree/video8)
 * [Code for Video 9 - Container vs. Presentational Components](https://github.com/ReactjsProgram/React-Fundamentals/tree/video9)
 * [Code for Video 10 - Private Stateless Functional React Components](https://github.com/ReactjsProgram/React-Fundamentals/tree/video10)
+* [Code for Video 11 - Building a Highly Reusable React Component](https://github.com/ReactjsProgram/React-Fundamentals/tree/video11)
 
 
 [Sentry](https://sentry.io/)
