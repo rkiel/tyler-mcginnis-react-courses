@@ -63,7 +63,7 @@ echo "  installing webpack.config.js"
 cat > webpack.config.js << EOF
 module.exports = {
   entry: [
-    './app/index.js'
+    __dirname + '/app/index.js'
   ],
   output: {
     path: __dirname + "/public",
