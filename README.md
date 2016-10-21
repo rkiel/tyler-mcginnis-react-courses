@@ -67,6 +67,9 @@ Here's how to update (Vagrant box)
 * [Code for Video 11 - Building a Highly Reusable React Component](https://github.com/ReactjsProgram/React-Fundamentals/tree/video11)
 * [Code for Video 12 - React Router Transitions & Animations](https://github.com/ReactjsProgram/React-Fundamentals/tree/video12)
 
+ [Tyler McGinnis' ES6/7 for React](http://www.reactjsprogram.com/)
+
+* [Code for Video 1 - Babel, const, let, modules, destructing in React](https://github.com/ReactjsProgram/ES6-for-React/tree/video1_
 
 [Sentry](https://sentry.io/)
 * [Sentry for React](https://docs.sentry.io/clients/javascript/integrations/react/)
