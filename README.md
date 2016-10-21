@@ -70,7 +70,7 @@ Here's how to update (Vagrant box)
 
 [Tyler McGinnis' ES6/7 for React](http://www.reactjsprogram.com/)
 
-* [Code for Video 1 - Babel, const, let, modules, destructing in React](https://github.com/ReactjsProgram/ES6-for-React/tree/video1_
+* [Code for Video 1 - Babel, const, let, modules, destructing in React](https://github.com/ReactjsProgram/ES6-for-React/tree/video1)
 
 [Sentry](https://sentry.io/)
 * [Sentry for React](https://docs.sentry.io/clients/javascript/integrations/react/)
