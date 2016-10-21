@@ -65,6 +65,7 @@ Here's how to update (Vagrant box)
 * [Code for Video 9 - Container vs. Presentational Components](https://github.com/ReactjsProgram/React-Fundamentals/tree/video9)
 * [Code for Video 10 - Private Stateless Functional React Components](https://github.com/ReactjsProgram/React-Fundamentals/tree/video10)
 * [Code for Video 11 - Building a Highly Reusable React Component](https://github.com/ReactjsProgram/React-Fundamentals/tree/video11)
+* [Code for Video 12 - React Router Transitions & Animations](https://github.com/ReactjsProgram/React-Fundamentals/tree/video12)
 
 
 [Sentry](https://sentry.io/)
