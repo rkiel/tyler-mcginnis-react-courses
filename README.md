@@ -53,7 +53,7 @@ Here's how to update (Vagrant box)
  
  Resources
  
- [Tyler McGinnis' React.js Fundamentals](http://www.reactjsprogram.com/)
+[Tyler McGinnis' React.js Fundamentals](http://www.reactjsprogram.com/)
  
 * [Code for Video 2 - Babel, Webpack, and React](https://github.com/ReactjsProgram/React-Fundamentals/tree/video2)
 * [Code for Video 3 - Pure Functions, Props, and Nesting](https://github.com/ReactjsProgram/React-Fundamentals/tree/video3)
@@ -67,7 +67,8 @@ Here's how to update (Vagrant box)
 * [Code for Video 11 - Building a Highly Reusable React Component](https://github.com/ReactjsProgram/React-Fundamentals/tree/video11)
 * [Code for Video 12 - React Router Transitions & Animations](https://github.com/ReactjsProgram/React-Fundamentals/tree/video12)
 
- [Tyler McGinnis' ES6/7 for React](http://www.reactjsprogram.com/)
+
+[Tyler McGinnis' ES6/7 for React](http://www.reactjsprogram.com/)
 
 * [Code for Video 1 - Babel, const, let, modules, destructing in React](https://github.com/ReactjsProgram/ES6-for-React/tree/video1_
 
