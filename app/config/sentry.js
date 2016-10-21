@@ -1,4 +1,4 @@
-// var Raven = require('raven-js')
+// import Raven from 'raven-js';
 
 // Get your keys by signing up for Sentry at sentry.reactjsprogram.com
 // var sentryKey = 'YOUR_SENTRY_KEY'
@@ -26,4 +26,4 @@ var sentry = {
 
   install: install
 }
-module.exports = sentry;
+export default sentry;

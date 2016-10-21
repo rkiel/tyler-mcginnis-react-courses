@@ -1,7 +1,8 @@
-var React = require('react');
-var ReactDOM = require('react-dom');
-var routes = require('./config/routes.jsx');
-var sentry = require('./config/sentry');
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+import routes from './config/routes.jsx';
+import sentry from './config/sentry';
 
 sentry.install();
 

@@ -1,3 +1,3 @@
 var styles = {};
 
-module.exports = styles;
+export default styles;
