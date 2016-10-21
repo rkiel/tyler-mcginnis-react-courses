@@ -14,11 +14,11 @@ Start up Vagrant (OS X box)
 
     vagrant up
     vagrant ssh node
-    
+
 Go to the dual-world project directory (Vagrant box)
 
     cd /vagrant
-    
+
 Install the node modules (Vagrant box)
 
     npm install
@@ -34,8 +34,20 @@ View in the browser (Chrome or Safari)
 Here's how it was built (Vagrant box)
 
     npm init -f
-    npm install --save react react-dom react-router axios
-    npm install --save-dev html-webpack-plugin webpack webpack-dev-server babel-core babel-loader babel-preset-react
+
+    npm install --save react
+    npm install --save react-dom
+    npm install --save react-router
+    npm install --save axios
+
+    npm install --save-dev html-webpack-plugin
+    npm install --save-dev webpack
+    npm install --save-dev webpack-dev-server
+    npm install --save-dev babel-core
+    npm install --save-dev babel-loader
+    npm install --save-dev babel-preset-react
+    npm install --save-dev babel-preset-es2015
+    
     touch webpack.config.js
     touch .babelrc
     echo dist >> .gitignore
@@ -50,11 +62,11 @@ Here's how to update (Vagrant box)
     npm update --save
     npm outdated
     npm prune
- 
+
  Resources
- 
+
 [Tyler McGinnis' React.js Fundamentals](http://www.reactjsprogram.com/)
- 
+
 * [Code for Video 2 - Babel, Webpack, and React](https://github.com/ReactjsProgram/React-Fundamentals/tree/video2)
 * [Code for Video 3 - Pure Functions, Props, and Nesting](https://github.com/ReactjsProgram/React-Fundamentals/tree/video3)
 * [Code for Video 4 - Children, React Router, Sentry](https://github.com/ReactjsProgram/React-Fundamentals/tree/video4)
