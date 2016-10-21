@@ -4,7 +4,8 @@ const Home = React.createClass({
   render: function() {
     return (
       <div>
-        Hello from Home!
+        <h1>Home</h1>
+        <p>Hello from Home!</p>
       </div>
     )
   }
