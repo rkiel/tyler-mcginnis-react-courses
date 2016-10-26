@@ -1,0 +1,4 @@
+.basic {
+  composes: danger from '../../styles/colors.css';
+  composes: padded from '../../styles/layout.css';
+}
