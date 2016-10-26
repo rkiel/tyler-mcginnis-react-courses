@@ -47,7 +47,10 @@ Here's how it was built (Vagrant box)
     npm install --save-dev babel-loader
     npm install --save-dev babel-preset-react
     npm install --save-dev babel-preset-es2015
-    
+    npm install --save-dev css-loader
+    npm install --save-dev style-loader
+    npm install --save-dev extract-text-webpack-plugin
+
     touch webpack.config.js
     touch .babelrc
     echo dist >> .gitignore

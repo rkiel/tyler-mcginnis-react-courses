@@ -1,0 +1,4 @@
+.basic {
+  composes: basic from './colors.css';
+  composes: padded from './layout.css';
+}
