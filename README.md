@@ -91,5 +91,8 @@ Here's how to update (Vagrant box)
 * [Code for Video 4 - Async/Await in React](https://github.com/ReactjsProgram/ES6-for-React/tree/video4)
 * [Code for Video 5 - Classes in React](https://github.com/ReactjsProgram/ES6-for-React/tree/video5)
 
+[Tyler McGinnis' Redux + Immutable](http://www.reactjsprogram.com/)
+
+
 [Sentry](https://sentry.io/)
 * [Sentry for React](https://docs.sentry.io/clients/javascript/integrations/react/)
