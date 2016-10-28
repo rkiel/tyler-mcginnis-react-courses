@@ -94,6 +94,7 @@ Here's how to update (Vagrant box)
 [Tyler McGinnis' Redux + Immutable](http://www.reactjsprogram.com/)
 * [Code for Firebase Schema](https://github.com/ReactjsProgram/Redux-Immutable/tree/1-firebase-schema)
 * [Code for Redux Schema](https://github.com/ReactjsProgram/Redux-Immutable/tree/2-redux-schema)
+* [Code for Representing Actions with POJOs](https://github.com/ReactjsProgram/Redux-Immutable/tree/3-actions)
 
 [Sentry](https://sentry.io/)
 * [Sentry for React](https://docs.sentry.io/clients/javascript/integrations/react/)
