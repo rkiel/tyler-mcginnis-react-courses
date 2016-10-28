@@ -85,13 +85,14 @@ Here's how to update (Vagrant box)
 
 [Tyler McGinnis' ES6/7 for React](http://www.reactjsprogram.com/)
 
-* [Code for Video 1 - Babel, const, let, modules, destructing in React](https://github.com/ReactjsProgram/ES6-for-React/tree/video1)
-* [Code for Video 2 - Concise Object Methods, Arrow Functions](https://github.com/ReactjsProgram/ES6-for-React/tree/video2)
-* [Code for Video 3 - Template Strings, Default Parameters, Concise Objects](https://github.com/ReactjsProgram/ES6-for-React/tree/video3)
-* [Code for Video 4 - Async/Await in React](https://github.com/ReactjsProgram/ES6-for-React/tree/video4)
-* [Code for Video 5 - Classes in React](https://github.com/ReactjsProgram/ES6-for-React/tree/video5)
+* [Code for Babel, const, let, modules, destructing in React](https://github.com/ReactjsProgram/ES6-for-React/tree/video1)
+* [Code for Concise Object Methods, Arrow Functions](https://github.com/ReactjsProgram/ES6-for-React/tree/video2)
+* [Code for Template Strings, Default Parameters, Concise Objects](https://github.com/ReactjsProgram/ES6-for-React/tree/video3)
+* [Code for Async/Await in React](https://github.com/ReactjsProgram/ES6-for-React/tree/video4)
+* [Code for Classes in React](https://github.com/ReactjsProgram/ES6-for-React/tree/video5)
 
 [Tyler McGinnis' Redux + Immutable](http://www.reactjsprogram.com/)
+* [Code for Firebase Schema](https://github.com/ReactjsProgram/Redux-Immutable/tree/1-firebase-schema)
 
 
 [Sentry](https://sentry.io/)
