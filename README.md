@@ -50,6 +50,12 @@ Here's how it was built (Vagrant box)
     yarn add --dev babel-preset-stage-0
     yarn add --dev css-loader
     yarn add --dev style-loader
+    yarn add --dev eslint
+    yarn add --dev eslint-config-standard
+    yarn add --dev eslint-plugin-standard
+    yarn add --dev eslint-plugin-promise
+    yarn add --dev eslint-plugin-react
+    yarn add --dev babel-eslint
     npm install --save-dev extract-text-webpack-plugin
 
     touch webpack.config.js
@@ -68,6 +74,8 @@ Here's how to update (Vagrant box)
     npm prune
 
  Resources
+
+ [JavaScript Standard Style](http://standardjs.com/)
 
 [Tyler McGinnis' React.js Fundamentals](http://www.reactjsprogram.com/)
 

@@ -1,9 +1,9 @@
-import React from 'react';
+import React from 'react'
 
-//import styles from './styles/Home.css';
+// import styles from './styles/Home.css'
 
 const Home = React.createClass({
-  render: function() {
+  render: function () {
     return (
       <div>
         <h1>Home</h1>
@@ -11,6 +11,6 @@ const Home = React.createClass({
       </div>
     )
   }
-});
+})
 
-export default Home;
+export default Home

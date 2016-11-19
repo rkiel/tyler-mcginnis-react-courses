@@ -18,12 +18,12 @@
 //   }
 // }).install()
 
-const install = function() {
-  console.log("Sentry is not configured");
+const install = function () {
+  // console.log("Sentry is not configured");
 }
 
 const sentry = {
-  install: install
+  install: install,
 }
 
-export default sentry;
+export default sentry

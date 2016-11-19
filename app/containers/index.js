@@ -1,1 +1,1 @@
-export MainContainer from './Main/MainContainer.jsx';
+export { default as MainContainer } from './Main/MainContainer.jsx'
