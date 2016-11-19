@@ -1,10 +1,10 @@
-import React from 'react';
-import {Router, Route, hashHistory, IndexRoute} from 'react-router';
+import React from 'react'
+import {Router, Route, hashHistory, IndexRoute} from 'react-router'
 
-import { MainContainer } from '../containers';
+import { MainContainer } from '../containers'
 
-import Home from '../components/Home.jsx';
-import About from '../components/About.jsx';
+import Home from '../components/Home.jsx'
+import About from '../components/About.jsx'
 
 const routes = (
   <Router history={hashHistory}>
@@ -14,6 +14,6 @@ const routes = (
       <Route path='/about' component={About}/>
     </Route>
   </Router>
-);
+)
 
-export default routes;
+export default routes

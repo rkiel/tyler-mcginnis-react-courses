@@ -1,16 +1,16 @@
-import React from 'react';
+import React from 'react'
 
-//import styles from './styles/About.css';
+// import styles from './styles/About.css';
 
 const About = React.createClass({
-  render: function() {
+  render: function () {
     return (
       <div>
-        <h1>About</h1>
-        <p>Hello from About!</p>
+        <h1>{'About'}</h1>
+        <p>{'Hello from About!'}</p>
       </div>
     )
-  }
-});
+  },
+})
 
-export default About;
+export default About

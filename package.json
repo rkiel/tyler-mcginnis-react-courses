@@ -6,8 +6,8 @@
   "scripts": {
     "start": "webpack-dev-server --host 192.168.33.60",
     "production": "webpack -p",
-    "lint": "eslint app/.; exit 0",
-    "fix": "eslint --fix app/.; exit 0"
+    "lint": "eslint --ext .js --ext .jsx app/.; exit 0",
+    "fix": "eslint  --ext .js --ext .jsx --fix app/.; exit 0"
   },
   "keywords": [],
   "author": "",

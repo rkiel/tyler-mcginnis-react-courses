@@ -1,13 +1,16 @@
-import React from 'react';
+import React from 'react'
 
 const MainContainer = React.createClass({
-  render: function() {
+  propTypes: {
+    children: React.PropTypes.element.isRequired,
+  },
+  render: function () {
     return (
       <div className='main-container'>
         {this.props.children}
       </div>
     )
-  }
-});
+  },
+})
 
-export default MainContainer;
+export default MainContainer
