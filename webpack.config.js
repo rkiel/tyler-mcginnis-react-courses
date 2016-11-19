@@ -16,6 +16,7 @@ var HTMLWebpackPluginConfig = new HtmlWebpackPlugin({
 //var ExtractTextPluginConfig = new ExtractTextPlugin("styles.css");
 
 module.exports = {
+  devtool: 'cheap-module-inline-source-map',
   entry: [PATHS.app],
   output: {
     path: PATHS.dist,
