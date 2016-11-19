@@ -37,7 +37,7 @@ Here's how it was built (Vagrant box)
 
     yarn add react
     yarn add react-dom
-    npm install --save react-router
+    yarn add react-router
     npm install --save axios
 
     yarn add --dev html-webpack-plugin
