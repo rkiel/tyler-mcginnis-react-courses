@@ -35,20 +35,21 @@ Here's how it was built (Vagrant box)
 
     npm init -f
 
-    npm install --save react
-    npm install --save react-dom
+    yarn add react
+    yarn add react-dom
     npm install --save react-router
     npm install --save axios
 
-    npm install --save-dev html-webpack-plugin
-    npm install --save-dev webpack
-    npm install --save-dev webpack-dev-server
-    npm install --save-dev babel-core
-    npm install --save-dev babel-loader
-    npm install --save-dev babel-preset-react
-    npm install --save-dev babel-preset-es2015
-    npm install --save-dev css-loader
-    npm install --save-dev style-loader
+    yarn add --dev html-webpack-plugin
+    yarn add --dev webpack
+    yarn add --dev webpack-dev-server
+    yarn add --dev babel-core
+    yarn add --dev babel-loader
+    yarn add --dev babel-preset-react
+    yarn add --dev babel-preset-es2015
+    yarn add --dev babel-preset-stage-0
+    yarn add --dev css-loader
+    yarn add --dev style-loader
     npm install --save-dev extract-text-webpack-plugin
 
     touch webpack.config.js
