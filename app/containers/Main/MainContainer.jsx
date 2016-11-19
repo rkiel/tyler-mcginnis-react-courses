@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Main = React.createClass({
+const MainContainer = React.createClass({
   render: function() {
     return (
       <div className='main-container'>
@@ -10,4 +10,4 @@ const Main = React.createClass({
   }
 });
 
-export default Main;
+export default MainContainer;
