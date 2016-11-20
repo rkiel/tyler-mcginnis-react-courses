@@ -3,8 +3,7 @@ import {Router, Route, hashHistory, IndexRoute} from 'react-router'
 
 import { MainContainer } from 'containers'
 
-import Home from 'components/Home.jsx'
-import About from 'components/About.jsx'
+import {About, Home} from 'components'
 
 const routes = (
   <Router history={hashHistory}>
