@@ -14,11 +14,14 @@ const HTMLWebpackPluginConfig = new HtmlWebpackPlugin({
   inject: 'body'
 });
 
+const HotModuleReplacementConfig = new webpack.HotModuleReplacementPlugin();
+
 //const ExtractTextPluginConfig = new ExtractTextPlugin("styles.css");
 
 // in package.json, the 'key' specified in the 'scripts'
 const LAUNCH_COMMAND = process.env.npm_lifecycle_event;
 const isProduction = LAUNCH_COMMAND === 'production';
+process.env.BABEL_ENV = isProduction ? 'production' : 'development';
 
 const productionPlugin = new webpack.DefinePlugin({
   'process.env': {
@@ -50,7 +53,13 @@ const baseExport = {
 
 const developmentExport = {
   devtool: 'cheap-module-inline-source-map',
-  plugins: [HTMLWebpackPluginConfig]
+  devServer: {
+    contentBase: PATHS.dist,
+    hot: true,
+    inline: true,
+    progress: true,
+  },
+  plugins: [HTMLWebpackPluginConfig, HotModuleReplacementConfig]
   //plugins: [HTMLWebpackPluginConfig, ExtractTextPluginConfig]
 };
 const productionExport = {

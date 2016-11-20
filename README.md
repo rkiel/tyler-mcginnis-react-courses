@@ -56,6 +56,7 @@ Here's how it was built (Vagrant box)
     yarn add --dev eslint-plugin-promise
     yarn add --dev eslint-plugin-react
     yarn add --dev babel-eslint
+    yarn add --dev babel-preset-react-hmre
     npm install --save-dev extract-text-webpack-plugin
 
     touch webpack.config.js
