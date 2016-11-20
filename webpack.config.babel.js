@@ -49,6 +49,9 @@ const baseExport = {
       }
     ]
   },
+  resolve: {
+    root: path.resolve(PATHS.app)
+  }
 }
 
 const developmentExport = {
