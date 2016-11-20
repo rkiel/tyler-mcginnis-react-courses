@@ -43,7 +43,7 @@ const baseExport = {
         loader: "babel-loader"
       }, {
         test: /\.css/,
-        loader: 'style-loader!css-loader'
+        loader: 'style!css?sourceMap&modules&localIdentName=[name]__[local]___[hash:base64:5]'
         //      loader: ExtractTextPlugin.extract('css?modules&importLoaders=1&localIdentName=[name]__[local]___[hash:base64:5]'),
         //      include: PATHS.app
       }

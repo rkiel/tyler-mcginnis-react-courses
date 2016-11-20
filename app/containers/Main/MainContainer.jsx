@@ -1,4 +1,5 @@
 import React from 'react'
+import { color } from './styles.css'
 
 const MainContainer = React.createClass({
   propTypes: {
@@ -6,7 +7,7 @@ const MainContainer = React.createClass({
   },
   render: function () {
     return (
-      <div className='main-container'>
+      <div className={color}>
         {this.props.children}
       </div>
     )
